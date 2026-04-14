@@ -49,4 +49,6 @@ align-content: baseline;
     display: flex;
     justify-content: center;
     margin: auto;
+    height: 20vh;
+    width: 20vh;
 }
